@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Aishwarya A Poojary</h1>
 
-<h3 align="center">Software Developer | MCA Graduate | AI & Data Engineering Enthusiast</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=8B5CF6&center=true&vCenter=true&width=800&lines=Software+Developer;Java+%7C+Python+%7C+React+Developer;Building+AI-Powered+Applications;Exploring+Data+Engineering+%26+Cloud;Always+Learning+Something+New" />
 </p>

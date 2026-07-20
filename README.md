@@ -1,72 +1,111 @@
-<h1 align="center">Hi 👋 I'm Aishwarya</h1>
-<h3 align="center">Code is my medium. Interaction is my art.</h3>
+<h1 align="center">Hi 👋, I'm Aishwarya A Poojary</h1>
+
+<h3 align="center">
+Software Developer | MCA Graduate | AI & Data Engineering Enthusiast
+</h3>
 
 <p align="center">
-  Frontend Developer • React Explorer • Game Logic Enthusiast
+Building scalable applications with Java, React, Python & SQL.
+Passionate about solving real-world problems through clean code and thoughtful design.
 </p>
 
 ---
 
-### 🌱 About Me
+## 👩‍💻 About Me
 
-- 🎓 Computer Science student exploring real-world development  
-- 🎮 I enjoy building **interactive apps and choice-based games**  
-- ⚛️ React is my comfort zone  
-- ✨ I believe **good UI tells a story without words**
+🎓 MCA Graduate passionate about software development and data-driven applications.
 
----
+💡 I enjoy transforming ideas into practical solutions—from responsive web applications to AI-powered systems.
 
-### 🧠 What I Like Building
+🌱 Currently learning:
+- Data Engineering
+- Cloud Technologies (AWS)
+- Advanced SQL
+- System Design
 
-- Interactive React apps  
-- Game mechanics with meaningful choices  
-- Clean UI with smooth user flow  
-- Small ideas with strong logic  
+🎯 Looking for Software Development / Data Engineering opportunities.
 
 ---
 
-### 🚀 Featured Creations
+## 🛠 Tech Stack
 
-🕹 **Second Chance – A Choice-Based Game**  
-> *Every decision has consequences.*
+### Languages
+- Java
+- Python
+- JavaScript
+- SQL
 
-🔗 https://github.com/yourusername/second-chance  
+### Frontend
+- React
+- HTML5
+- CSS3
+- Tailwind CSS
 
-📘 **Online Bookstore**  
-> *A modern frontend experience for book lovers.*
+### Backend
+- Node.js
+- REST APIs
 
-🔗 https://github.com/yourusername/online-bookstore  
+### Database
+- MySQL
+- MongoDB
 
-🌦 **Weather App**  
-> *Simple design. Real-time data.*
-
-🔗 https://github.com/yourusername/weather-app  
-
----
-
-### 🛠 Tech I Work With
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-### 📊 Code Journey
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
 
 ---
 
-### 📫 Let’s Connect
+## 🚀 Featured Projects
 
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-- 📧 Email: yourmail@gmail.com  
+### 🎙 Automated Speech Evaluation System
+AI-powered oral assessment platform using Whisper ASR, Sentence Transformers, and semantic similarity scoring.
+
+**Tech:** Python • Machine Learning • NLP
 
 ---
 
-<p align="center">
-  <i>“Good software works. Great software feels right.”</i>
-</p>
+### 🌾 FarmLink
+A web platform connecting farmers and restaurants with inventory, orders, and delivery management.
+
+**Tech:** React • Node.js • MongoDB
+
+---
+
+### 🌐 Personal Portfolio
+A creative scrapbook-inspired portfolio showcasing projects, skills, and achievements.
+
+**Tech:** React • Tailwind CSS
+
+---
+
+## 📈 Currently Working On
+
+✔ Improving Data Structures & Algorithms
+
+✔ Building modern React applications
+
+✔ Learning AWS & Data Engineering
+
+✔ Contributing to Open Source
+
+---
+
+## 📊 GitHub Stats
+
+(Add GitHub Readme Stats)
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn
+
+🌐 Portfolio
+
+📧 Email
+
+---
+
+> *"I believe great software is built through curiosity, continuous learning, and attention to detail."*

@@ -1,111 +1,86 @@
-<h1 align="center">Hi 👋, I'm Aishwarya A Poojary</h1>
+<h1 align="center">Hi, I'm Aishwarya A Poojary</h1>
 
-<h3 align="center">
-Software Developer | MCA Graduate | AI & Data Engineering Enthusiast
-</h3>
+<h3 align="center">Software Developer | MCA Graduate | AI & Data Engineering Enthusiast</h3>
 
 <p align="center">
-Building scalable applications with Java, React, Python & SQL.
-Passionate about solving real-world problems through clean code and thoughtful design.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=8B5CF6&center=true&vCenter=true&width=800&lines=Software+Developer;Java+%7C+Python+%7C+React+Developer;Building+AI-Powered+Applications;Exploring+Data+Engineering+%26+Cloud;Always+Learning+Something+New" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# About Me
 
-🎓 MCA Graduate passionate about software development and data-driven applications.
+ MCA Graduate passionate about building software that solves real-world problems.
 
-💡 I enjoy transforming ideas into practical solutions—from responsive web applications to AI-powered systems.
+I enjoy creating modern web applications, exploring Artificial Intelligence, and continuously improving my problem-solving skills.
 
-🌱 Currently learning:
-- Data Engineering
-- Cloud Technologies (AWS)
-- Advanced SQL
-- System Design
+ **Currently Learning**
 
-🎯 Looking for Software Development / Data Engineering opportunities.
+-  AWS & Cloud Computing
+-  Data Engineering
+-  System Design
+-  Advanced SQL
 
----
+ **Career Goal**
 
-## 🛠 Tech Stack
-
-### Languages
-- Java
-- Python
-- JavaScript
-- SQL
-
-### Frontend
-- React
-- HTML5
-- CSS3
-- Tailwind CSS
-
-### Backend
-- Node.js
-- REST APIs
-
-### Database
-- MySQL
-- MongoDB
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
+To contribute as a Software Engineer while continuously learning modern technologies and building impactful products.
 
 ---
 
-## 🚀 Featured Projects
+# Tech Stack
 
-### 🎙 Automated Speech Evaluation System
-AI-powered oral assessment platform using Whisper ASR, Sentence Transformers, and semantic similarity scoring.
+| Category | Technologies |
+|----------|--------------|
+| Languages | <img src="https://skillicons.dev/icons?i=java,python,js" /> <br> Java • Python • JavaScript • SQL |
+| Frontend | <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" /> <br> React • HTML5 • CSS3 • Tailwind CSS • Vite |
+| Backend | <img src="https://skillicons.dev/icons?i=nodejs,express" /> <br> Node.js • Express |
+| Database | <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> <br> MySQL • MongoDB |
+| Tools | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" /> <br> Git • GitHub • VS Code • Postman • Figma |
 
-**Tech:** Python • Machine Learning • NLP
+---
+# GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aish-0925&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-### 🌾 FarmLink
-A web platform connecting farmers and restaurants with inventory, orders, and delivery management.
+# Coding Profiles
 
-**Tech:** React • Node.js • MongoDB
+<p align="center">
 
----
+<a href="[YOUR_LEETCODE_PROFILE](https://leetcode.com/u/aishwarya_a_poojary25/)">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-### 🌐 Personal Portfolio
-A creative scrapbook-inspired portfolio showcasing projects, skills, and achievements.
+<a href="[YOUR_HACKERRANK_PROFILE](https://www.hackerrank.com/profile/aishwaryaap)">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 
-**Tech:** React • Tailwind CSS
-
----
-
-## 📈 Currently Working On
-
-✔ Improving Data Structures & Algorithms
-
-✔ Building modern React applications
-
-✔ Learning AWS & Data Engineering
-
-✔ Contributing to Open Source
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# Connect With Me
 
-(Add GitHub Readme Stats)
+<a href="[YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/aishwarya-a-poojary/)" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<a href="mailto:aishwaryaapoojary51@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## 📫 Connect With Me
-
-💼 LinkedIn
-
-🌐 Portfolio
-
-📧 Email
 
 ---
 
-> *"I believe great software is built through curiosity, continuous learning, and attention to detail."*
+<p align="center">
+
+###  Thanks for visiting my profile!
+
+*"Turning ideas into reliable software, one commit at a time."*
+
+</p>

@@ -31,7 +31,7 @@ To contribute as a Software Engineer while continuously learning modern technolo
 
 | Category | Technologies |
 |----------|--------------|
-| Languages | <img src="https://skillicons.dev/icons?i=java,python,js" /> <br> Java • Python • JavaScript • SQL |
+| Languages | <img src="https://skillicons.dev/icons?i=java,python,js" /> <br> Java • Python • JavaScript |
 | Frontend | <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" /> <br> React • HTML5 • CSS3 • Tailwind CSS • Vite |
 | Backend | <img src="https://skillicons.dev/icons?i=nodejs,express" /> <br> Node.js • Express |
 | Database | <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> <br> MySQL • MongoDB |

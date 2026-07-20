@@ -52,12 +52,12 @@ To contribute as a Software Engineer while continuously learning modern technolo
 
 <p align="center">
 
-<a href="[YOUR_LEETCODE_PROFILE](https://leetcode.com/u/aishwarya_a_poojary25/)">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://leetcode.com/u/aishwarya_a_poojary25/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
-<a href="[YOUR_HACKERRANK_PROFILE](https://www.hackerrank.com/profile/aishwaryaap)">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<a href="https://www.hackerrank.com/profile/aishwaryaap" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
 </a>
 
 </p>

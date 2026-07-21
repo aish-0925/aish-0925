@@ -63,9 +63,5 @@ To contribute as a Software Engineer while continuously learning modern technolo
 ---
 
 <p align="center">
-
 ###  Thanks for visiting my profile!
-
-*"Turning ideas into reliable software, one commit at a time."*
-
 </p>

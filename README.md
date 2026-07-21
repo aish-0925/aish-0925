@@ -63,5 +63,9 @@ To contribute as a Software Engineer while continuously learning modern technolo
 ---
 
 <p align="center">
-###  Thanks for visiting my profile!
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Improve. Repeat."*
+
 </p>
